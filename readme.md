@@ -4,7 +4,7 @@ Gabriel Konar-Steenberg, fall 2022
 
 ## Overview
 
-In fall 2022, I took *MATH306 Optimization*, a graduate-level course on convex optimization at Claremont Graduate University taught by Prof. Marina Chugunova. This repository contains some of my computational solutions to problems posed in that class, which I present as lightly edited Jupyter notebooks.
+In fall 2022, I took *MATH306 Optimization*, a graduate-level course on convex optimization at Claremont Graduate University taught by Prof. Marina Chugunova. This repository contains some of my computational solutions to problems posed in that class, which I present as lightly edited Jupyter notebooks. Solutions are posted with the permission of the professor.
 
 ## Table of Contents
 
